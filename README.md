@@ -1,2 +1,3 @@
 # hello-world
-Percobaan belajar
+Salam kenal...
+Namaku Syukril..bisa dipanggil Ulil =D
